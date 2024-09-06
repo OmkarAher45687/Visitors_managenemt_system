@@ -3,6 +3,7 @@
 Welcome to the Visitor Management System repository! This project aims to provide a solution for managing visitors efficiently using computer vision and machine learning technologies, along with a user-friendly desktop application built using Python and Tkinter.
 
 ##Introduction
+
 The Visitor Management System with Face Detection and WhatsApp Integration is a project aimed at enhancing the security and efficiency of visitor management processes. This system utilizes facial recognition technology to detect and identify visitors, allowing administrators to efficiently approve or request visitors to wait via WhatsApp messaging.
 
 The face detection module utilizes computer vision algorithms to capture and analyze the facial features of visitors as they approach a designated entry point. By comparing the detected faces against a pre-existing database of authorized individuals, the system can accurately identify whether a visitor is known or unknown. 
