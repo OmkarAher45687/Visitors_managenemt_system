@@ -1,12 +1,12 @@
-# Visitor Management System with Face Detection and WhatsApp Integration
+# Visitor Management System 
 
 Welcome to the **Visitor Management System** repository! This project is designed to streamline visitor management processes by utilizing **computer vision** and **machine learning** technologies. It includes a user-friendly desktop application built with **Python** and **Tkinter**.
 
 ## Introduction
 
-The **Visitor Management System** leverages **Facial recognition technology** to enhance security and improve the efficiency of managing visitors. By integrating **WhatsApp messaging**, administrators can quickly communicate with visitors, approving or requesting them to wait with just a few clicks.
+The **Visitor Management System** leverages **facial recognition technology** to enhance security and improve the efficiency of managing visitors. By integrating **WhatsApp messaging**, administrators can quickly communicate with visitors, approving or requesting them to wait with just a few clicks.
 
-The system uses **computer vision algorithms** to detect and analyze visitors' facial features as they approach a designated entry point. Detected faces are compared against a pre-existing database to identify authorized individuals. Administrators can then decide whether to approve entry or request further verification, all within the application. 
+The system uses **computer vision algorithms** to detect and analyze visitors' facial features as they approach a designated entry point. Detected faces are compared against a pre-existing database to identify authorized individuals. Administrators can then decide whether to approve entry or request further verification, all within the application.
 
 With **WhatsApp integration**, administrators can seamlessly notify visitors of the next steps via instant messaging, creating a smooth and efficient visitor experience. This system brings improved security, operational efficiency, and effective communication to any organization.
 
@@ -26,4 +26,3 @@ With **WhatsApp integration**, administrators can seamlessly notify visitors of 
 - **pyWhatkit**: Integrates WhatsApp messaging for automated notifications.
 - **Microsoft Excel**: Serves as the storage format for visitor data.
 - **openpyxl**: A Python library for reading and writing Excel files.
-
